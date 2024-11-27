@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="400" viewBox="0 0 500 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Elements -->
+  <circle cx="250" cy="200" r="180" fill="#FFE8E8" opacity="0.3"/>
+  <circle cx="250" cy="200" r="150" fill="#E8FFF9" opacity="0.3"/>
+  
+  <!-- Book -->
+  <path d="M150 120 L350 120 C370 120 380 130 380 150 L380 300 C380 320 370 330 350 330 L150 330 C130 330 120 320 120 300 L120 150 C120 130 130 120 150 120Z" fill="#FF6B6B" opacity="0.9"/>
+  <path d="M145 125 L345 125 C365 125 375 135 375 155 L375 305 C375 325 365 335 345 335 L145 335 C125 335 115 325 115 305 L115 155 C115 135 125 125 145 125Z" fill="white"/>
+  
+  <!-- Book Pages -->
+  <path d="M250 125 L250 335" stroke="#EEEEEE" stroke-width="2"/>
+  <path d="M200 140 L230 140" stroke="#CCCCCC" stroke-width="2"/>
+  <path d="M270 140 L300 140" stroke="#CCCCCC" stroke-width="2"/>
+  <path d="M180 160 L230 160" stroke="#CCCCCC" stroke-width="2"/>
+  <path d="M270 160 L320 160" stroke="#CCCCCC" stroke-width="2"/>
+  
+  <!-- Stars -->
+  <path d="M160 80 L165 90 L175 95 L165 100 L160 110 L155 100 L145 95 L155 90Z" fill="#FFD93D"/>
+  <path d="M360 280 L365 290 L375 295 L365 300 L360 310 L355 300 L345 295 L355 290Z" fill="#4ECDC4"/>
+  <path d="M300 60 L305 70 L315 75 L305 80 L300 90 L295 80 L285 75 L295 70Z" fill="#95E1D3"/>
+  
+  <!-- Magic Sparkles -->
+  <circle cx="140" cy="200" r="3" fill="#FFD93D"/>
+  <circle cx="360" cy="180" r="3" fill="#4ECDC4"/>
+  <circle cx="200" cy="300" r="3" fill="#FF6B6B"/>
+  <circle cx="320" cy="250" r="3" fill="#95E1D3"/>
+  
+  <!-- Characters -->
+  <circle cx="200" cy="220" r="30" fill="#FFD93D" opacity="0.9"/>
+  <circle cx="300" cy="220" r="30" fill="#4ECDC4" opacity="0.9"/>
+</svg>
